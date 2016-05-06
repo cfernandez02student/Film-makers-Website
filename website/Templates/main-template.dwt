@@ -13,13 +13,45 @@
 <body>
 	<div class="wrapper">
     	<div class-"navigation">
+    	  <h1>Directors</h1>
     	  <ul>
-    	    <li><a href="../adam-mckay/index.html">Adam McKay</a></li>
-    	    <li><a href="../martin-scorsese/index.html">Martin Scorsese</a></li>
-    	    <li><a href="../quentin-tarantino/index.html">Quentin Tarantino</a></li>
-    	    <li><a href="../steven-spielberg/index.html">Steven Spielberg</a></li>
-    	    <li><a href="../tim-burton/index.html">Tim Burton</a></li>
-  	      </ul>
+    	    <li><a href="../index.html">Home</a> </li>
+    	    <li><a href="../adam-mckay/index.html">Adam McKay</a>
+    	      <ul>
+    	        <li><a href="../adam-mckay/anchorman.html">Anchorman</a></li>
+    	        <li><a href="../adam-mckay/step-brothers.html">Step Brothers</a></li>
+    	        <li><a href="../adam-mckay/the-big-short.html">The Big Short</a></li>
+  	          </ul>
+    	    </li>
+    	    <li><a href="../martin-scorsese/index.html">Martin Scorsese</a>
+    	      <ul>
+    	        <li><a href="../martin-scorsese/taxi-driver.html">Taxi Driver</a></li>
+    	        <li><a href="../martin-scorsese/goodfellas.html">Goodfellas</a></li>
+    	        <li><a href="../martin-scorsese/wolf-of-wallstreet.html">Wolf of Wall Street</a></li>
+  	          </ul>
+    	    </li>
+    	    <li><a href="../quentin-tarantino/index.html">Quentin Tarantino</a>
+    	      <ul>
+    	        <li><a href="../quentin-tarantino/pulp-fiction.html">Pulp Fiction</a></li>
+    	        <li><a href="../quentin-tarantino/kill-bill.html">Kill Bill</a></li>
+    	        <li><a href="../quentin-tarantino/little-nicky.html">Little Nicky</a></li>
+  	          </ul>
+    	    </li>
+    	    <li><a href="../steven-spielberg/index.html">Steven Spielberg</a>
+    	      <ul>
+    	        <li><a href="../steven-spielberg/the-terminal.html">The Terminal</a></li>
+    	        <li><a href="../steven-spielberg/catch-me-if-you-can.html">Catch Me If You Can</a></li>
+    	        <li><a href="../steven-spielberg/saving-private-ryan.html">Saving Private Ryan</a></li>
+  	          </ul>
+    	    </li>
+    	    <li><a href="../tim-burton/index.html">Tim Burton</a>
+    	      <ul>
+    	        <li><a href="../tim-burton/edward-scissorhands.html">Edward Scissorhands</a></li>
+    	        <li><a href="../tim-burton/beetlejuice.html">Beetlejuice</a></li>
+    	        <li><a href="../tim-burton/charlie-chocolate-factory.html">Charlie and the Chocolate Factory</a></li>
+  	          </ul>
+    	    </li>
+   	      </ul>
     	</div>
         <div class="content">
           <!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable -->
